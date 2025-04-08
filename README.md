@@ -67,7 +67,8 @@ streamlit run app.py
 
 ## 🖼️ App Preview
 
-![App Screenshot](Screenshot.png)
+![App Screenshot](https://github.com/kartik703/pdf-summarizer/blob/main/screenshot.png?raw=true)
+
 
 
 ---
