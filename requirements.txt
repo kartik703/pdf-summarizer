@@ -1,0 +1,8 @@
+streamlit
+transformers==4.36.2
+sentencepiece
+pdfplumber
+nltk
+keybert
+scikit-learn
+torch
