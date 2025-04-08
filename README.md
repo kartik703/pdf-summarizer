@@ -13,11 +13,11 @@ pinned: false
 
 An intelligent, interactive web app that allows you to:
 
-- 📤 Upload any PDF
+- 📄 Upload any PDF
 - 🔍 Extract the text using `pdfplumber`
 - 🧠 Summarize it using the T5 transformer model
 - 🔑 Extract key concepts using KeyBERT
-- 💾 Download the summary as a `.txt` file
+- 📅 Download the summary as a `.txt` file
 
 Built with **Streamlit**, **Hugging Face Transformers**, and **KeyBERT**.  
 Deployed on **Hugging Face Spaces**.
@@ -59,3 +59,28 @@ pip install -r requirements.txt
 
 # Run the Streamlit app
 streamlit run app.py
+```
+
+---
+
+## 🖼️ App Preview
+
+![App Screenshot](screenshot.png)
+
+---
+
+## 🙌 Created By
+
+**Kartik Goswami**  
+📍 Data Science & AI Enthusiast  
+🌐 [LinkedIn](https://www.linkedin.com/in/kartikgoswami2000) | [GitHub](https://github.com/kartik703)
+
+---
+
+## ⭐️ Show Some Love
+
+If you found this project helpful, please consider:
+
+- Giving it a ⭐ on [GitHub](https://github.com/kartikG2000/pdf-summarizer)
+- Sharing it on LinkedIn to inspire others 🚀
+
