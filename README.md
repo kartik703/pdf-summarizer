@@ -11,6 +11,8 @@ pinned: false
 
 # 📄 AI PDF Summarizer with T5 & KeyBERT
 
+[![GitHub Repo](https://img.shields.io/badge/GitHub-View%20Source-blue?logo=github)](https://github.com/kartik703/pdf-summarizer)
+
 An intelligent, interactive web app that allows you to:
 
 - 📄 Upload any PDF
@@ -65,7 +67,8 @@ streamlit run app.py
 
 ## 🖼️ App Preview
 
-![App Screenshot](screenshot.png)
+![App Screenshot](Screenshot.png)
+
 
 ---
 
@@ -81,6 +84,6 @@ streamlit run app.py
 
 If you found this project helpful, please consider:
 
-- Giving it a ⭐ on [GitHub](https://github.com/kartikG2000/pdf-summarizer)
+- Giving it a ⭐ on [GitHub](https://github.com/kartik703/pdf-summarizer)
 - Sharing it on LinkedIn to inspire others 🚀
 
